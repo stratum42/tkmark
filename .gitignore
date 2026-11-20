@@ -1,0 +1,16 @@
+Makefile
+Makefile.old
+MYMETA.json
+MYMETA.yml
+blib/
+pm_to_blib
+/Compute.c
+/Compute.bs
+*.o
+*.obj
+c/*.o
+c/*.obj
+*.bundle
+*.so
+*.dll
+.DS_Store
